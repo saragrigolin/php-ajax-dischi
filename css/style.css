@@ -53,3 +53,9 @@ main .container-60 {
 .spotify-card .subtitle, .spotify-card .year {
     color: var(--spanColor);
 }
+
+.footer {
+    background-color: var(--headerBackground);
+    color: var(--spanColor);
+    padding: 1em 0;
+}
